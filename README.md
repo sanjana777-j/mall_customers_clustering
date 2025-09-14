@@ -8,7 +8,7 @@ This is my first Machine Learning mini-project where I applied  **K-Means Cluste
 
 \## Steps
 
-1\. Load the dataset (**Mall\_Customers.csv (sorce:Kaggle)**)
+1\. Load the dataset (**Mall\_Customers.csv (source:Kaggle)**)
 
 2\. Visualize the data
 
